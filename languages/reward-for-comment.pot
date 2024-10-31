@@ -1,0 +1,439 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Reward for Comment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 10:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.2"
+
+#: reward-for-comment.php:98
+#, php-format
+msgid ""
+"Failed to send the reward to %s. Service did not respond, please try again "
+"later."
+msgstr ""
+
+#: reward-for-comment.php:105
+#, php-format
+msgid "Failed to send the reward to %s.<br><b>%s</b>"
+msgstr ""
+
+#: reward-for-comment.php:110
+#, php-format
+msgid "Commenter %s rewarded %u satoshi"
+msgstr ""
+
+#: reward-for-comment.php:148
+msgid "Reward"
+msgstr ""
+
+#: reward-for-comment.php:172
+msgid "You are in admin mode"
+msgstr ""
+
+#: reward-for-comment.php:192
+msgid "To admin only"
+msgstr ""
+
+#: reward-for-comment.php:192
+msgid "System is not ready"
+msgstr ""
+
+#: reward-for-comment.php:194
+msgid "System requires attention"
+msgstr ""
+
+#: reward-for-comment.php:196
+msgid "To admin: Reward for Comment is not ready. Please"
+msgstr ""
+
+#: reward-for-comment.php:197
+msgid "check the configuration"
+msgstr ""
+
+#: reward-for-comment.php:204 reward-for-comment.php:218
+msgid "Satoshi rewards"
+msgstr ""
+
+#: reward-for-comment.php:206
+msgid "Hello"
+msgstr ""
+
+#: reward-for-comment.php:208
+msgid "The actual reward amount is visible only to the commenter"
+msgstr ""
+
+#: reward-for-comment.php:209
+msgid "Post your own comment"
+msgstr ""
+
+#: reward-for-comment.php:210 reward-for-comment.php:223
+msgid "or"
+msgstr ""
+
+#: reward-for-comment.php:211 reward-for-comment.php:230
+msgid "https://cryptoo.me/check/"
+msgstr ""
+
+#: reward-for-comment.php:212 reward-for-comment.php:244
+msgid "Check your balance"
+msgstr ""
+
+#: reward-for-comment.php:218
+msgid "Rewards for comments"
+msgstr ""
+
+#: reward-for-comment.php:220
+msgid "Sorry, the reward details is for registered users only"
+msgstr ""
+
+#: reward-for-comment.php:221
+msgid "Please"
+msgstr ""
+
+#: reward-for-comment.php:222
+msgid "Login"
+msgstr ""
+
+#: reward-for-comment.php:224
+msgid "Register"
+msgstr ""
+
+#: reward-for-comment.php:232
+msgid "Awaiting reward"
+msgstr ""
+
+#: reward-for-comment.php:234
+msgid "Please wait"
+msgstr ""
+
+#: reward-for-comment.php:235
+msgid "This comment is not"
+msgstr ""
+
+#: reward-for-comment.php:236 reward-for-comment.php:285
+msgid "rewarded"
+msgstr ""
+
+#: reward-for-comment.php:237
+msgid "yet"
+msgstr ""
+
+#: reward-for-comment.php:238
+msgid "post new comment"
+msgstr ""
+
+#: reward-for-comment.php:240
+msgid "Rewarded!"
+msgstr ""
+
+#: reward-for-comment.php:241
+msgid "Click to the amount to check your balance"
+msgstr ""
+
+#: reward-for-comment.php:242
+msgid "Good news"
+msgstr ""
+
+#: reward-for-comment.php:243
+msgid "Comment reward is "
+msgstr ""
+
+#: reward-for-comment.php:244 reward-for-comment.php:285
+#: reward-for-comment.php:319 reward-for-comment.php:491
+#: reward-for-comment.php:566
+msgid "satoshi"
+msgstr ""
+
+#: reward-for-comment.php:246
+msgid "post another comment"
+msgstr ""
+
+#: reward-for-comment.php:288 reward-for-comment.php:322
+msgid "awaiting reward"
+msgstr ""
+
+#: reward-for-comment.php:293 reward-for-comment.php:327
+#: reward-for-comment.php:327
+msgid "Pay for comment"
+msgstr ""
+
+#: reward-for-comment.php:319
+msgid "Rewarded"
+msgstr ""
+
+#: reward-for-comment.php:339
+msgid "Satoshi amount to reward this comment"
+msgstr ""
+
+#: reward-for-comment.php:339
+msgid "Satoshi amount to pay"
+msgstr ""
+
+#: reward-for-comment.php:340
+msgid "Minimum"
+msgstr ""
+
+#: reward-for-comment.php:341
+msgid "Minus 10 satoshi"
+msgstr ""
+
+#: reward-for-comment.php:342
+msgid "Minus 1 satoshi"
+msgstr ""
+
+#: reward-for-comment.php:343
+msgid "Plus 1 satoshi"
+msgstr ""
+
+#: reward-for-comment.php:344
+msgid "Plus 10 satoshi"
+msgstr ""
+
+#: reward-for-comment.php:345
+msgid "Maximun"
+msgstr ""
+
+#: reward-for-comment.php:377
+msgid "Reward for comment"
+msgstr ""
+
+#: reward-for-comment.php:378
+msgid "Congratulations!"
+msgstr ""
+
+#: reward-for-comment.php:379
+#, php-format
+msgid "The <a href=\"%s\">comment</a> "
+msgstr ""
+
+#: reward-for-comment.php:380
+#, php-format
+msgid "has been <a href=\"https://cryptoo.me/check/%s\">rewarded</a>. "
+msgstr ""
+
+#: reward-for-comment.php:381
+#, php-format
+msgid "Please <a href=\"%s\">make more comments</a> for more rewards. "
+msgstr ""
+
+#: reward-for-comment.php:385
+msgid "Sincerely yours"
+msgstr ""
+
+#. Name of the plugin
+#: reward-for-comment.php:440 reward-for-comment.php:834
+#: reward-for-comment.php:834
+msgid "Reward for Comment"
+msgstr ""
+
+#: reward-for-comment.php:470
+msgid "Reward Calculation"
+msgstr ""
+
+#: reward-for-comment.php:474
+msgid "See results of the Reward calculations at the"
+msgstr ""
+
+#: reward-for-comment.php:476
+msgid "Comments Page"
+msgstr ""
+
+#: reward-for-comment.php:479
+msgid "For comment text pay"
+msgstr ""
+
+#: reward-for-comment.php:480
+msgid ""
+"Satoshi value for basic calculation. Every valuable character in comment "
+"will be paid (satoshi/character) satoshi amount"
+msgstr ""
+
+#: reward-for-comment.php:481
+msgid "satoshi for"
+msgstr ""
+
+#: reward-for-comment.php:482
+msgid ""
+"Character value for basic calculation. Every valuable character in comment "
+"will be paid (satoshi/character) satoshi amount"
+msgstr ""
+
+#: reward-for-comment.php:483
+msgid "valuable characters"
+msgstr ""
+
+#: reward-for-comment.php:487
+msgid "For a comment pay no less than"
+msgstr ""
+
+#: reward-for-comment.php:488
+msgid ""
+"Every comment will be paid at list this value, even if basic calculation "
+"returns less"
+msgstr ""
+
+#: reward-for-comment.php:489
+msgid "satoshi, and no more than"
+msgstr ""
+
+#: reward-for-comment.php:490
+msgid ""
+"Every comment can not be paid more than this amount, even if basic "
+"calculation returns more"
+msgstr ""
+
+#: reward-for-comment.php:495
+msgid "Pay extra"
+msgstr ""
+
+#: reward-for-comment.php:496
+msgid "Pay extra for the words valuable for your website content"
+msgstr ""
+
+#: reward-for-comment.php:497
+msgid "satoshi for words"
+msgstr ""
+
+#: reward-for-comment.php:498
+msgid "Comma-separated words triggering extra-payments"
+msgstr ""
+
+#: reward-for-comment.php:509
+msgid "Notifications"
+msgstr ""
+
+#: reward-for-comment.php:515
+msgid "Send email to the comment author when rewarded"
+msgstr ""
+
+#: reward-for-comment.php:515
+msgid "Notify the commenter on the reward given"
+msgstr ""
+
+#: reward-for-comment.php:526
+msgid "Crypto-currency"
+msgstr ""
+
+#: reward-for-comment.php:531
+msgid "Payment system"
+msgstr ""
+
+#: reward-for-comment.php:532
+msgid "Crypt-currency micropayment system"
+msgstr ""
+
+#: reward-for-comment.php:534
+msgid "More coming soon"
+msgstr ""
+
+#: reward-for-comment.php:541
+msgid "Get the API Key at the"
+msgstr ""
+
+#: reward-for-comment.php:542
+msgid "https://cryptoo.me/applications/"
+msgstr ""
+
+#: reward-for-comment.php:542
+msgid "Application Manager"
+msgstr ""
+
+#: reward-for-comment.php:543
+msgid ""
+"https://www.youtube.com/watch?v=-"
+"f5ckdopgag&list=PLRv0B44q8TR8bWrEwtMd6e17oW8wdRVIv&index=1"
+msgstr ""
+
+#: reward-for-comment.php:543
+msgid "HowTo Video"
+msgstr ""
+
+#: reward-for-comment.php:545
+msgid "Keep Secret !"
+msgstr ""
+
+#: reward-for-comment.php:546
+msgid "Cryptoo.me API Key"
+msgstr ""
+
+#: reward-for-comment.php:552
+msgid "Check the API Key"
+msgstr ""
+
+#: reward-for-comment.php:563
+msgid "API Key is not valid"
+msgstr ""
+
+#: reward-for-comment.php:564
+msgid "Something went wrong, try again!"
+msgstr ""
+
+#: reward-for-comment.php:565
+msgid "Balance:"
+msgstr ""
+
+#: reward-for-comment.php:690
+msgid "Network error"
+msgstr ""
+
+#: reward-for-comment.php:694
+msgid "Cryptoo.me API Key is not configured"
+msgstr ""
+
+#: reward-for-comment.php:701 reward-for-comment.php:707
+msgid "Available balance "
+msgstr ""
+
+#: reward-for-comment.php:701
+msgid " is under the minimal reward"
+msgstr ""
+
+#: reward-for-comment.php:707
+msgid " is under maximal reward"
+msgstr ""
+
+#: reward-for-comment.php:714
+msgid "System is ready"
+msgstr ""
+
+#: reward-for-comment.php:747
+msgid "Save settings before they take effect"
+msgstr ""
+
+#: reward-for-comment.php:748
+msgid "Save Settings"
+msgstr ""
+
+#: reward-for-comment.php:753
+msgid "<a>Save</a> to apply changes"
+msgstr ""
+
+#: reward-for-comment.php:806
+msgid "Like this plugin"
+msgstr ""
+
+#: reward-for-comment.php:807
+msgid "Rate it &star;&star;&star;&star;&star;"
+msgstr ""
+
+#: reward-for-comment.php:808
+msgid "Motivate the developer"
+msgstr ""
+
+#. Description of the plugin
+msgid "Reward users for creating unique content for your website"
+msgstr ""
+
+#. Author of the plugin
+msgid "Alexey Trofimov"
+msgstr ""

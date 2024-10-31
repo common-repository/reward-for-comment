@@ -1,0 +1,455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reward for Comment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-28 10:09+0000\n"
+"PO-Revision-Date: 2020-07-28 11:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.2"
+
+#: reward-for-comment.php:98
+#, php-format
+msgid ""
+"Failed to send the reward to %s. Service did not respond, please try again "
+"later."
+msgstr ""
+"Ошибка отправки автору комментария  %s. Система нее ответила, попробуйте "
+"чуть позже."
+
+#: reward-for-comment.php:105
+#, php-format
+msgid "Failed to send the reward to %s.<br><b>%s</b>"
+msgstr "Ошибка отправки вознаграждении %s.<br><b>%s</b>"
+
+#: reward-for-comment.php:110
+#, php-format
+msgid "Commenter %s rewarded %u satoshi"
+msgstr "Вознаграждение автору комментария %s - %u сатоши"
+
+#: reward-for-comment.php:148
+msgid "Reward"
+msgstr "Вознаграждение"
+
+#: reward-for-comment.php:172
+msgid "You are in admin mode"
+msgstr "Вы в режиме администратора"
+
+#: reward-for-comment.php:192
+msgid "To admin only"
+msgstr "Только для адмиина"
+
+#: reward-for-comment.php:192
+msgid "System is not ready"
+msgstr "Система не готова"
+
+#: reward-for-comment.php:194
+msgid "System requires attention"
+msgstr "Система требует внимания"
+
+#: reward-for-comment.php:196
+msgid "To admin: Reward for Comment is not ready. Please"
+msgstr "Админу: Система \"Награда за комментарии\" не готова. Пожалуйста"
+
+#: reward-for-comment.php:197
+msgid "check the configuration"
+msgstr "проверьте настройки"
+
+#: reward-for-comment.php:204 reward-for-comment.php:218
+msgid "Satoshi rewards"
+msgstr "Награда сатоши"
+
+#: reward-for-comment.php:206
+msgid "Hello"
+msgstr "Привет"
+
+#: reward-for-comment.php:208
+msgid "The actual reward amount is visible only to the commenter"
+msgstr "Реальная сумма вознаграждения видна только автору комментария  "
+
+#: reward-for-comment.php:209
+msgid "Post your own comment"
+msgstr "Отправьте собственный комментарий"
+
+#: reward-for-comment.php:210 reward-for-comment.php:223
+msgid "or"
+msgstr "или"
+
+#: reward-for-comment.php:211 reward-for-comment.php:230
+msgid "https://cryptoo.me/check/"
+msgstr "https://cryptoo.me/баланс/"
+
+#: reward-for-comment.php:212 reward-for-comment.php:244
+msgid "Check your balance"
+msgstr "Проверьте баланс"
+
+#: reward-for-comment.php:218
+msgid "Rewards for comments"
+msgstr "Награда за комментарии "
+
+#: reward-for-comment.php:220
+msgid "Sorry, the reward details is for registered users only"
+msgstr ""
+"Извините, детали  наград за комментарии доступны только регистрированы "
+"пользователям"
+
+#: reward-for-comment.php:221
+msgid "Please"
+msgstr "Пожалуйста"
+
+#: reward-for-comment.php:222
+msgid "Login"
+msgstr "Войдите"
+
+#: reward-for-comment.php:224
+msgid "Register"
+msgstr "Зарегистрируйтесь"
+
+#: reward-for-comment.php:232
+msgid "Awaiting reward"
+msgstr "Ожидает вознаграждения"
+
+#: reward-for-comment.php:234
+msgid "Please wait"
+msgstr "Пожалуйста подождите"
+
+#: reward-for-comment.php:235
+msgid "This comment is not"
+msgstr "Этот комментарий пока не"
+
+#: reward-for-comment.php:236 reward-for-comment.php:285
+msgid "rewarded"
+msgstr "получил вознаграждение"
+
+#: reward-for-comment.php:237
+msgid "yet"
+msgstr "."
+
+#: reward-for-comment.php:238
+msgid "post new comment"
+msgstr "отправьте новый комментарий"
+
+#: reward-for-comment.php:240
+msgid "Rewarded!"
+msgstr "Вознаграждение получено!"
+
+#: reward-for-comment.php:241
+msgid "Click to the amount to check your balance"
+msgstr "Кликните на сумму чтобы проверить баланс"
+
+#: reward-for-comment.php:242
+msgid "Good news"
+msgstr "Хорошие новости"
+
+#: reward-for-comment.php:243
+msgid "Comment reward is "
+msgstr "Вознаграждение за комментарий"
+
+#: reward-for-comment.php:244 reward-for-comment.php:285
+#: reward-for-comment.php:319 reward-for-comment.php:491
+#: reward-for-comment.php:566
+msgid "satoshi"
+msgstr "сатоши"
+
+#: reward-for-comment.php:246
+msgid "post another comment"
+msgstr "отправьте еще один комментарий"
+
+#: reward-for-comment.php:288 reward-for-comment.php:322
+msgid "awaiting reward"
+msgstr "ожидает вознаграждения"
+
+#: reward-for-comment.php:293 reward-for-comment.php:327
+#: reward-for-comment.php:327
+msgid "Pay for comment"
+msgstr "Оплатить комментарий"
+
+#: reward-for-comment.php:319
+msgid "Rewarded"
+msgstr "Вознаграждено"
+
+#: reward-for-comment.php:339
+msgid "Satoshi amount to reward this comment"
+msgstr "Сумма сатоши в награду  за комментарий"
+
+#: reward-for-comment.php:339
+msgid "Satoshi amount to pay"
+msgstr "Сумма сатоши в награду"
+
+#: reward-for-comment.php:340
+msgid "Minimum"
+msgstr "Минимум"
+
+#: reward-for-comment.php:341
+msgid "Minus 10 satoshi"
+msgstr "Минус 10 сатоши"
+
+#: reward-for-comment.php:342
+msgid "Minus 1 satoshi"
+msgstr "Минус сатоши"
+
+#: reward-for-comment.php:343
+msgid "Plus 1 satoshi"
+msgstr "Плюс сатоши"
+
+#: reward-for-comment.php:344
+msgid "Plus 10 satoshi"
+msgstr "Плюс 10 сатошии"
+
+#: reward-for-comment.php:345
+msgid "Maximun"
+msgstr "Максимум"
+
+#: reward-for-comment.php:377
+msgid "Reward for comment"
+msgstr "Награда за комментарий"
+
+#: reward-for-comment.php:378
+msgid "Congratulations!"
+msgstr "Поздравляем!"
+
+#: reward-for-comment.php:379
+#, php-format
+msgid "The <a href=\"%s\">comment</a> "
+msgstr "Комментарий"
+
+#: reward-for-comment.php:380
+#, php-format
+msgid "has been <a href=\"https://cryptoo.me/check/%s\">rewarded</a>. "
+msgstr "был вознаграждён."
+
+#: reward-for-comment.php:381
+#, php-format
+msgid "Please <a href=\"%s\">make more comments</a> for more rewards. "
+msgstr ""
+"Пожалуйста <a href=\"%s\">комментируйте чаще</a> и получайте больше наград. "
+
+#: reward-for-comment.php:385
+msgid "Sincerely yours"
+msgstr "С уважением"
+
+#. Name of the plugin
+#: reward-for-comment.php:440 reward-for-comment.php:834
+#: reward-for-comment.php:834
+msgid "Reward for Comment"
+msgstr "Награда за Комментарий"
+
+#: reward-for-comment.php:470
+msgid "Reward Calculation"
+msgstr "Вычисление суммы вознаграждения"
+
+#: reward-for-comment.php:474
+msgid "See results of the Reward calculations at the"
+msgstr "Посмотрите результаты вычислений на"
+
+#: reward-for-comment.php:476
+msgid "Comments Page"
+msgstr "Странице комментариев"
+
+#: reward-for-comment.php:479
+msgid "For comment text pay"
+msgstr "За текст комментария платить"
+
+#: reward-for-comment.php:480
+msgid ""
+"Satoshi value for basic calculation. Every valuable character in comment "
+"will be paid (satoshi/character) satoshi amount"
+msgstr ""
+"Значения для базового вычисления для сатоши. Каждый значимый символ в "
+"комментарии будет оплачен из расчёта (сатоши/символ) в сатоши."
+
+#: reward-for-comment.php:481
+msgid "satoshi for"
+msgstr "сатоши за"
+
+#: reward-for-comment.php:482
+msgid ""
+"Character value for basic calculation. Every valuable character in comment "
+"will be paid (satoshi/character) satoshi amount"
+msgstr ""
+"Значения для базового вычисления для символов. Каждый значимый символ в "
+"комментарии будет оплачен из расчёта (сатоши/символ) в сатоши."
+
+#: reward-for-comment.php:483
+msgid "valuable characters"
+msgstr "значимых символов"
+
+#: reward-for-comment.php:487
+msgid "For a comment pay no less than"
+msgstr "За комментарий платить не меньше чем"
+
+#: reward-for-comment.php:488
+msgid ""
+"Every comment will be paid at list this value, even if basic calculation "
+"returns less"
+msgstr ""
+"Комментарий будет оплачен не меньше чем это значение, даже если базовое "
+"вычисление вернёт меньшую величину"
+
+#: reward-for-comment.php:489
+msgid "satoshi, and no more than"
+msgstr "сатоши, и не большее чем"
+
+#: reward-for-comment.php:490
+msgid ""
+"Every comment can not be paid more than this amount, even if basic "
+"calculation returns more"
+msgstr ""
+"Комментарий будет оплачен не больше чем это значение, даже если базовое "
+"вычисление вернёт большую величину"
+
+#: reward-for-comment.php:495
+msgid "Pay extra"
+msgstr "Платить добавочно"
+
+#: reward-for-comment.php:496
+msgid "Pay extra for the words valuable for your website content"
+msgstr "Платить добавочно за слова, важные  для темы сайта"
+
+#: reward-for-comment.php:497
+msgid "satoshi for words"
+msgstr "сатоши за слово"
+
+#: reward-for-comment.php:498
+msgid "Comma-separated words triggering extra-payments"
+msgstr "важные слова, разделённые запятыми"
+
+#: reward-for-comment.php:509
+msgid "Notifications"
+msgstr "Предупреждения"
+
+#: reward-for-comment.php:515
+msgid "Send email to the comment author when rewarded"
+msgstr ""
+"При выплате вознаграждения оповещать автора комментария электронным письмом "
+
+#: reward-for-comment.php:515
+msgid "Notify the commenter on the reward given"
+msgstr "При выплате вознаграждения оповещать автора комментария"
+
+#: reward-for-comment.php:526
+msgid "Crypto-currency"
+msgstr "Крипто-валютная"
+
+#: reward-for-comment.php:531
+msgid "Payment system"
+msgstr "система платежей"
+
+#: reward-for-comment.php:532
+msgid "Crypt-currency micropayment system"
+msgstr "Крипто-валютная система платежей"
+
+#: reward-for-comment.php:534
+msgid "More coming soon"
+msgstr "Скоро будут ещё"
+
+#: reward-for-comment.php:541
+msgid "Get the API Key at the"
+msgstr "Получите Ключ API (API Key) в"
+
+#: reward-for-comment.php:542
+msgid "https://cryptoo.me/applications/"
+msgstr "https://cryptoo.me/приложения/"
+
+#: reward-for-comment.php:542
+msgid "Application Manager"
+msgstr "Менеджер приложениий"
+
+#: reward-for-comment.php:543
+msgid ""
+"https://www.youtube.com/watch?v=-"
+"f5ckdopgag&list=PLRv0B44q8TR8bWrEwtMd6e17oW8wdRVIv&index=1"
+msgstr ""
+"https://www.youtube.com/watch?v=-"
+"f5ckdopgag&list=PLRv0B44q8TR8bWrEwtMd6e17oW8wdRVIv&index=1"
+
+#: reward-for-comment.php:543
+msgid "HowTo Video"
+msgstr "учебные видео с русскими субтитрамии"
+
+#: reward-for-comment.php:545
+msgid "Keep Secret !"
+msgstr "Сохраняйте в секрете!"
+
+#: reward-for-comment.php:546
+msgid "Cryptoo.me API Key"
+msgstr "Ключ API Cryptoo.me"
+
+#: reward-for-comment.php:552
+msgid "Check the API Key"
+msgstr "Проверить Ключ API"
+
+#: reward-for-comment.php:563
+msgid "API Key is not valid"
+msgstr "Ключ API неправильный"
+
+#: reward-for-comment.php:564
+msgid "Something went wrong, try again!"
+msgstr "Что-то пошло не так, попробуйте ещё раз"
+
+#: reward-for-comment.php:565
+msgid "Balance:"
+msgstr "Баланс: "
+
+#: reward-for-comment.php:690
+msgid "Network error"
+msgstr "Ошибка сети"
+
+#: reward-for-comment.php:694
+msgid "Cryptoo.me API Key is not configured"
+msgstr "Ключ API не настроен"
+
+#: reward-for-comment.php:701 reward-for-comment.php:707
+msgid "Available balance "
+msgstr "Доступный баланс"
+
+#: reward-for-comment.php:701
+msgid " is under the minimal reward"
+msgstr "ниже минимального вознаграждения "
+
+#: reward-for-comment.php:707
+msgid " is under maximal reward"
+msgstr "ниже максимального вознаграждения "
+
+#: reward-for-comment.php:714
+msgid "System is ready"
+msgstr "Система готова"
+
+#: reward-for-comment.php:747
+msgid "Save settings before they take effect"
+msgstr "Сохраните настройки чтобы они вступили в силу"
+
+#: reward-for-comment.php:748
+msgid "Save Settings"
+msgstr "Сохраните настройки"
+
+#: reward-for-comment.php:753
+msgid "<a>Save</a> to apply changes"
+msgstr "Сохраните настройки чтобы они вступили в силу"
+
+#: reward-for-comment.php:806
+msgid "Like this plugin"
+msgstr "Нравится плагин"
+
+#: reward-for-comment.php:807
+msgid "Rate it &star;&star;&star;&star;&star;"
+msgstr "Оцените   &star;&star;&star;&star;&star;"
+
+#: reward-for-comment.php:808
+msgid "Motivate the developer"
+msgstr "Мотивируйте разработчика"
+
+#. Description of the plugin
+msgid "Reward users for creating unique content for your website"
+msgstr "Вознаграждайте пользователей за создание уникального контента"
+
+#. Author of the plugin
+msgid "Alexey Trofimov"
+msgstr "Алексей Трофимов"
